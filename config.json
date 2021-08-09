@@ -1,0 +1,15 @@
+{
+  "cookie": "",
+  "start_page": 1,
+  "end_page": 500,
+  "start_date": "2000-01-01",
+  "end_date": "2099-12-31",
+  "enable_delete": false,
+  "enable_out_excel": false,
+  "enable_out_database": false,
+  "database_host": "127.0.0.1",
+  "database_port": 3306,
+  "database_user": "user",
+  "database_password": "password",
+  "database_db": "weibo"
+}
